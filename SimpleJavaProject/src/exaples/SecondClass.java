@@ -19,6 +19,10 @@ public class SecondClass {
 		//This code is added by sudheer
 		
 		System.out.println("This was added by sudheer");
+		
+		//This code is aded by pragna 
+		
+		System.out.println("This was added by pragna");
 
 	}
 
