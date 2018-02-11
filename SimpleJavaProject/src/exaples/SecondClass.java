@@ -6,6 +6,8 @@ public class SecondClass {
 	{
 		// TODO Auto-generated method stub
 		System.out.println("second class-first checkout");
+		
+		System.out.println("second class-Second checkout");
 
 	}
 
